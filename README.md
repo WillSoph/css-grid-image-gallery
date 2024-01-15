@@ -1,6 +1,6 @@
 # Galeria de imagens feita apenas com HTML5 e CSS3
 
-### Projeto feito para modelo de galeria usando <strong>HTML5 e CSS3</strong> usando css grid.
+### Projeto feito para modelo de galeria usando <strong>HTML5 e CSS3</strong> (css grid).
 
 <hr>
 
@@ -13,8 +13,6 @@
 <a id="-tecnologias-utilizadas"></a>
 
 ## Tecnologias utilizadas
-
-### Tecnologias usadas no projeto.
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
